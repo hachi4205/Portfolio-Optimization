@@ -1,10 +1,8 @@
 # Portfolio Optimization on the Vietnamese Stock Market
 
-Final project for Linear Algebra. Builds an intelligent portfolio of HOSE blue-chip stocks
+Final project for Basic Math for Artificial Intelligence. Builds an intelligent portfolio of HOSE blue-chip stocks
 using PCA, multiple linear regression, and Sharpe-ratio optimization — implemented from
 scratch with NumPy and SciPy.
-
-**Author:** Nguyen Ha Chi · Student ID: 2024106126
 
 ---
 
